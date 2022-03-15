@@ -1,0 +1,52 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    text-align: center;
+}
+
+table{
+    border: 1px solid white;
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+    color: red;
+}
+
+input{
+    width: 50%;
+    border: 1px solid black;
+    margin-bottom: 1px;
+    padding: 3px 6px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.form{
+    width: 350px;
+    height: 200px;
+    background: black;
+    margin: auto;
+    margin-top: 180px;
+    box-shadow: 7px 13px 37px red;
+    padding: 20px 30px;
+    border-top: 4px solid gray;
+    color: white;
+}
+
+.table-form{
+    width: 350px;
+    height: 100px;
+    background: black;
+    margin: auto;
+    margin-top: 180px;
+    box-shadow: 7px 13px 37px red;
+    padding: 20px 30px;
+    border-top: 4px solid gray;
+    color: white;
+}
