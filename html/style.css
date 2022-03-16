@@ -1,9 +1,13 @@
 body{
-    background-image: url(login.jpg);
+    background-image: url(4-41529_m.jpg);
     height: 1000px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+}
+
+label{
+    display: block;
 }
 
 h1{
@@ -37,7 +41,7 @@ input{
 
 .form{
     width: 350px;
-    height: 250px;
+    height: 350px;
     background: black;
     margin: auto;
     margin-top: 180px;
@@ -45,6 +49,7 @@ input{
     padding: 20px 30px;
     border-top: 4px solid gray;
     color: white;
+    text-align: center;
 }
 
 .table-form{
@@ -57,4 +62,8 @@ input{
     padding: 20px 30px;
     border-top: 4px solid gray;
     color: white;
+}
+
+::placeholder{
+    text-align: center;
 }
